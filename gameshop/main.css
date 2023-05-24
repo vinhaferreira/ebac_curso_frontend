@@ -19,10 +19,13 @@ header{
     background-color: #182c61;
     color: #ecf0f1;
 }
+header h1, section h2{
+    font-weight:normal ;
+}
 header nav li {
     display: inline;
     margin-left: 16px;
-    font-size: 24px;
+    font-size: 18px;
 }
 header nav li a {
     color: #ecf0f1;
